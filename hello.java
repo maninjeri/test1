@@ -7,5 +7,6 @@ class HelloWorld {
         System.out.println("Hello, Manoj");
         System.out.println("Hello, feature/branch");
         System.out.println("Hello, merge-main");
+System.out.println("Hello, merge-feature");
     }
 }
